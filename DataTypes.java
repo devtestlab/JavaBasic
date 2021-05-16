@@ -46,6 +46,17 @@ public class DataTypes {
 		double d = 104.1;
 		System.out.println("Value Double d = " + d);
 
+		// Addition
+		System.out.println(a + b + c + d);
+				
+		// Subtraction
+		System.out.println(a - b - c - d);
+				
+		// Multiplication
+		System.out.println("Multiplication " + a * b * c * d);
+				
+		//Division
+		System.out.println("Division " + (a / b )/ (c / d));
 		
 		// Char Values
 		// Char values are used to store characters values.
