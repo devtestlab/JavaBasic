@@ -24,16 +24,16 @@ public class DataTypes {
 		System.out.println("Value Integer k = " + k);
 		
 		// Addition
-		System.out.println(i + j + k);
+		System.out.println("Addition = " + i + j + k);
 		
 		// Subtraction
-		System.out.println(i - j + k);
+		System.out.println("Subtraction = " + (i - j + k));
 		
 		// Multiplication
-		System.out.println("Multiplication " + i * j * k);
+		System.out.println("Multiplication = " + i * j * k);
 		
 		//Division
-		System.out.println("Division " + k / i);
+		System.out.println("Division = " + k / i);
 	
 		// Double Values
 		// Double values stores decimal values unlike integer
@@ -47,16 +47,16 @@ public class DataTypes {
 		System.out.println("Value Double d = " + d);
 
 		// Addition
-		System.out.println(a + b + c + d);
+		System.out.println("Addition = " + a + b + c + d);
 				
 		// Subtraction
-		System.out.println(a - b - c - d);
+		System.out.println("Subtraction = " + (a - b - c - d));
 				
 		// Multiplication
-		System.out.println("Multiplication " + a * b * c * d);
+		System.out.println("Multiplication = " + a * b * c * d);
 				
 		//Division
-		System.out.println("Division " + (a / b )/ (c / d));
+		System.out.println("Division = " + (a / b )/ (c / d));
 		
 		// Char Values
 		// Char values are used to store characters values.
