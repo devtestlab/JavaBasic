@@ -86,7 +86,7 @@ public class DataTypes {
 		System.out.println("Value String s1 = " + s1);
 		String s2 = "Selenium Testing";
 		System.out.println("Value String s2 = " + s2);
-		String s3 = "This is Java Selenium combinaton";
+		String s3 = "This is Java Selenium combination";
 		System.out.println("Value String s3 = " + s3);
 		String s4 = "1000";
 		System.out.println("Value String s4 = " + s4);
@@ -101,6 +101,40 @@ public class DataTypes {
 							s4 +  " " + 
 							s5 +  " " + 
 							s6);
+		
+		/*
+		 * OUTPUT:
+			Value Integer i = 10
+			Value Integer j = 20
+			Value Integer k = 30
+			Addition = 102030
+			Subtraction = 20
+			Multiplication = 6000
+			Division = 3
+			Value Double a = 10.21
+			Value Double b = 230.288
+			Value Double c = 104.9
+			Value Double d = 104.1
+			Addition = 10.21230.288104.9104.1
+			Subtraction = -429.078
+			Multiplication = 2.5675757653243203E7
+			Division = 0.043997669731015966
+			Value Char v1 = a
+			Value Char v2 = 1
+			Value Char v3 = A
+			Value Char v4 = f
+			Value Char v5 = @
+			Value Boolean b1 = true
+			Value Boolean b2 = false
+			Value String s1 = Hello Testing
+			Value String s2 = Selenium Testing
+			Value String s3 = This is Java Selenium combination
+			Value String s4 = 1000
+			Value String s5 = 300.40
+			Value String s6 = First String case! This is 1000 line code
+			Hello Testing Selenium Testing This is Java Selenium combination 1000 300.40 First String case! This is 1000 line code
+
+		 */
 
 	}
 

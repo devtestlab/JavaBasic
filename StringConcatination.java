@@ -51,7 +51,7 @@ public class StringConcatination {
 		
 		System.out.println(x + " " + a);
 		
-		System.out.print("This is Single line statmement with no new line");
+		System.out.print("This is Single line statement with no new line");
 		System.out.println("This is new line will be printed in new line ");
 		
 		// String
@@ -61,7 +61,7 @@ public class StringConcatination {
 		System.out.println("Value String s1 = " + s1);
 		String s2 = "Selenium Testing";
 		System.out.println("Value String s2 = " + s2);
-		String s3 = "This is Java Selenium combinaton";
+		String s3 = "This is Java Selenium combination";
 		System.out.println("Value String s3 = " + s3);
 		String s4 = "1000";
 		System.out.println("Value String s4 = " + s4);
@@ -79,11 +79,40 @@ public class StringConcatination {
 		System.out.println("\n");
 		
 		System.out.println(s1 + " " + 
-							s2 +  " " +
-							s3 +  " " + 
-							s4 +  " " + 
-							s5 +  " " + 
-							s6);
+				s2 +  " " +
+				s3 +  " " + 
+				s4 +  " " + 
+				s5 +  " " + 
+				s6);
+		
+		/*
+		 * OUTPUT:
+		 * 3000
+		 * JavaSelenium
+		 * 3000JavaSelenium
+		 * JavaSelenium10002000
+		 * 3000JavaSelenium
+		 * 3000JavaSelenium6000
+		 * JavaSelenium10002000
+		 * 3110.7110.7JavaSelenium
+		 * 3110.7JavaSelenium
+		 * 6110.7JavaSelenium10002000
+		 * 3110.7JavaSelenium
+		 * 3110.7JavaSelenium
+		 * This is value of a 1000
+		 * This is value of b 2000
+		 * Java 1000
+		 * This is Single line statement with no new lineThis is new line will be printed in new line 
+		 * Value String s1 = Hello Testing
+		 * Value String s2 = Selenium Testing
+		 * Value String s3 = This is Java Selenium combination
+		 * Value String s4 = 1000
+		 * Value String s5 = 300.40
+		 * Value String s6 = First String case! This is 1000 line code
+		 * Hello Testing Selenium Testing This is Java Selenium combination 1000 300.40 First String case! This is 1000 line code
+		 * Hello Testing Selenium Testing This is Java Selenium combination 1000 300.40 First String case! This is 1000 line code
+		 * Hello Testing Selenium Testing This is Java Selenium combinaton 1000 300.40 First String case! This is 1000 line code
+		 */
 				
 		
 	}

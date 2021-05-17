@@ -69,6 +69,17 @@ public class IfElseConditionAndOperators {
 			System.out.println("Value of X and Y are true");
 		else if ((x == 10) || (y == 10))
 			System.out.println("Value of X and Y are not true");
+		
+		/*
+		 * OUTPUT:
+			B is greater than A
+			C and D are not equal
+			C is smaller than D
+			C is neither greater nor equal to D
+			I is greatest
+			Value of X and Y are true
+
+		 */
 
 	}
 

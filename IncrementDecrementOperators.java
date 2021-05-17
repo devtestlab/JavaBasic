@@ -38,6 +38,19 @@ public class IncrementDecrementOperators {
 		int s = --r;
 		System.out.println("After Pre Decrement= " + s);
 		
+		/*
+		 * OUTPUT:
+			Before Post Increment= 10
+			After Post Increment= 11
+			Before Pre Increment= 10
+			After Pre Increment= 11
+			Before Post Decrement= 10
+			After Post Decrement= 9
+			Before Pre Decrement= 10
+			After Pre Decrement= 9
+
+		 */
+		
 		
 	}
 
