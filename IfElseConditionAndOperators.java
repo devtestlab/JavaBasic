@@ -8,12 +8,12 @@ public class IfElseConditionAndOperators {
 		
 		/*
 		 * LIST OF AVAILABLE COMPARISION OPERATORS
-		 *	== 	equal to
-		 *	!= 	not equal to
-		 *	>   greater than
-		 *	>=  greater than or equal to
-		 *	<   less than
-		 *	<=  less than or equal to
+		 *	==	equal to
+		 *	!=	not equal to
+		 *	>	 greater than
+		 *	>=	greater than or equal to
+		 *	< 	less than
+		 *	<=	less than or equal to
 		 *	&&	And Operator
 		 *	||	OR Operator
 		 */
