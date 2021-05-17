@@ -106,7 +106,7 @@ public class JavaArrays {
 		str[3] = "Then after Selenium";
 		str[4] = "Learn Selenium Automation";
 		str[5] = "Working on Java";
-		str[6] = "Progamming in Java";
+		str[6] = "Programming in Java";
 				
 		// Lets try to print array with for loop
 		System.out.println("Printing String Array");
@@ -168,7 +168,8 @@ public class JavaArrays {
 			Array Value= 70.77
 			****************************************
 			Printing Char Array
-			JAVA-ARRAY****************************************
+			JAVA-ARRAY
+			****************************************
 			Printing Boolean Array
 			Boolean Value= 10.11
 			Boolean Value= 20.22
@@ -180,7 +181,7 @@ public class JavaArrays {
 			Then after Selenium
 			Learn Selenium Automation
 			Working on Java
-			Progamming in Java
+			Programming in Java
 			****************************************
 			Printing String Array
 			100
