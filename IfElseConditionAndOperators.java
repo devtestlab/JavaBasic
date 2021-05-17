@@ -10,7 +10,7 @@ public class IfElseConditionAndOperators {
 		 * LIST OF AVAILABLE COMPARISION OPERATORS
 		 *	==	equal to
 		 *	!=	not equal to
-		 *	>	 greater than
+		 *	>	greater than
 		 *	>=	greater than or equal to
 		 *	< 	less than
 		 *	<=	less than or equal to
@@ -42,9 +42,9 @@ public class IfElseConditionAndOperators {
 		if (c > d)
 			System.out.println("D is greater than C");
 		if (c <= d)
-			System.out.println("C is neither greater and equal to D");
+			System.out.println("C is neither greater nor equal to D");
 		if (c >= d)
-			System.out.println("D is neither greater and equal to C");
+			System.out.println("D is neither greater nor equal to C");
 
 		
 		// Nested IF ELSE condition.
