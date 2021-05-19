@@ -10,11 +10,28 @@ public class CarsClass {
 	public static void main(String[] args) {
 
 		/*
-		 * Class is collection of data that can be accessed with objects
-		 * 
-		 *  Class Objects
-		 *  c1, c2 and c3 are object representator or we can say object reference variables
-		 *  new CarsClass() is the object of class 
+			What is class/Object?
+			Class is an entity where we have to define properties of class having said that I mean we have to define methods and variables.
+			Which defines the character of the class? Object are created to use the properties of the class. 
+			
+			2.	What is Object reference?
+			To access the properties of methods and var, objects will be referred by object reference. 
+			
+			ClassName objname = new ClassName();
+			new ClassName(); = Object
+			objname = object reference
+			
+			new keyword is used to create object in java
+			objname will be the object reference which will use the properties of class like methods and variables
+			
+			As soon as an object is created properties of that class will be automatically assigned to that object reference.
+			
+			Class Objects
+			c1, c2 and c3 are object representator or we can say object reference variables
+			new CarsClass() is the object of class 
+			
+			For example:
+
 		 */	
 		
 		CarsClass c1 = new CarsClass();
